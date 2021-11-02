@@ -1,4 +1,4 @@
-/API/.env
-/API/node_modules
-API\.env
-API\node_modules
+/api/.env
+/api/node_modules
+api\.env
+api\node_modules
